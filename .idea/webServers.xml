@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8920f37b-2abe-42c5-b0b6-29a1470396e9" name="lulab" url="lulab01-p.gu.gu.se">
+        <fileTransfer rootFolder="/mywebsite/hoftenkat/fot" accessType="SFTP" host="lulab01-p.gu.gu.se" port="4022" sshConfigId="2f394b8f-e9f8-458e-8789-27200efc1e67" sshConfig="xtchri@lulab01-p.gu.gu.se:4022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
